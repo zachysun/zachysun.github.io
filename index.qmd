@@ -1,0 +1,7 @@
+---
+title: "publish_test"
+---
+
+Hello, world
+
+I'am Zhengke Sun
